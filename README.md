@@ -1,4 +1,4 @@
-# playground
+# Playground
 Place for quick implementations of interesting and random ideas.
 The repository contains:
 
